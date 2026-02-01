@@ -104,7 +104,7 @@ The Power BI dashboard is structured into **4 analytical views**:
 ## Key Business Insights
 
 * **LinkedIn** is the most effective channel for both responses and meetings
-* Follow‑ups are critical — most responses occur after **attempt 3+**
+* Follow‑ups are critical and most responses occur after **attempt 3+**
 * Large drop‑off occurs between **response and meeting booking**
 * Certain lead sources generate **fewer but higher‑quality opportunities**
 * The **US market** drives the majority of wins
