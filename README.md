@@ -103,21 +103,21 @@ The Power BI dashboard is structured into **4 analytical views**:
 
 ## Key Business Insights
 
-* 1. **LinkedIn** is the most effective channel for both responses and meetings
-* 2. Follow‑ups are critical — most responses occur after **attempt 3+**
-* 3. Large drop‑off occurs between **response and meeting booking**
-* 4. Certain lead sources generate **fewer but higher‑quality opportunities**
-* 5. The **US market** drives the majority of wins
-* 6. Many losses are due to **process delays**, not lead quality
+* **LinkedIn** is the most effective channel for both responses and meetings
+* Follow‑ups are critical — most responses occur after **attempt 3+**
+* Large drop‑off occurs between **response and meeting booking**
+* Certain lead sources generate **fewer but higher‑quality opportunities**
+* The **US market** drives the majority of wins
+* Many losses are due to **process delays**, not lead quality
 
 ---
 
 ## Recommendations
 
-* 1. Prioritize **LinkedIn** for outbound outreach
-* 2. Maintain a **4–5 step follow‑up cadence**
-* 3. Improve meeting booking CTAs and post‑response follow‑ups
-* 4. Focus sales efforts on **high win‑rate lead sources**
-* 5. Allocate outbound resources primarily to the **US market**
+* Prioritize **LinkedIn** for outbound outreach
+* Maintain a **4–5 step follow‑up cadence**
+* Improve meeting booking CTAs and post‑response follow‑ups
+* Focus sales efforts on **high win‑rate lead sources**
+* Allocate outbound resources primarily to the **US market**
 
 ---
