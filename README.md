@@ -1,4 +1,4 @@
-# Outbound Sales Analytics – End‑to‑End Portfolio Project
+# Outbound Sales Analytics: End‑to‑End Portfolio Project
 
 ## Project Overview
 
