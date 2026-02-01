@@ -37,19 +37,6 @@ The analysis is based on structured datasets representing outbound sales operati
 
 ### Data Modeling Highlights
 
-* Relational model centered around `leads_master`
-* Event‑level outreach tracking across channels and follow‑ups
-* Funnel stages derived from operational activity
-
-----------|------------|
-| `leads_master` | Master table containing lead, company, role, source, and geography details |
-| `outreach_activity` | Event‑level outreach log (Email → LinkedIn → Call with follow‑ups) |
-| `meetings` | Meetings booked from outreach activity |
-| `opportunity_outcomes` | Post‑meeting outcomes (Win / Lost + reasons) |
-| `lead_funnel_status` | Fully derived funnel status per lead |
-
-### Data Modeling Highlights
-
 * **Star schema design** with `leads_master` as the dimension table
   
 ---
