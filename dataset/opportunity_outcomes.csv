@@ -1,0 +1,49 @@
+opportunity_id,lead_id,intro_meeting_done,intro_meeting_date,interview_scheduled,final_outcome,outcome_reason,channel_origin
+O0001,L0006,Yes,2024-10-29,Yes,Win,Candidate Selected,Email
+O0002,L0031,Yes,2024-10-29,Yes,Lost,Candidate Rejected,Email
+O0003,L0055,Yes,2024-10-19,No,In Progress,Awaiting Feedback,Email
+O0004,L0064,Yes,2024-09-14,Yes,Lost,No Feedback,LinkedIn
+O0005,L0096,Yes,2024-10-15,No,Win,Candidate Selected,Email
+O0006,L0097,Yes,2024-10-27,Yes,In Progress,Awaiting Feedback,Email
+O0007,L0106,Yes,2024-10-05,No,Lost,Candidate Rejected,Cold Call
+O0008,L0147,Yes,2024-10-14,Yes,In Progress,Awaiting Feedback,Email
+O0009,L0154,Yes,2024-09-07,Yes,Lost,Candidate Rejected,LinkedIn
+O0010,L0176,Yes,2024-11-04,Yes,In Progress,Awaiting Feedback,Email
+O0011,L0220,Yes,2024-10-06,Yes,Lost,Position On Hold,Email
+O0012,L0232,Yes,2024-09-20,No,Lost,Position On Hold,LinkedIn
+O0013,L0249,Yes,2024-10-28,No,Lost,No Feedback,Email
+O0014,L0250,Yes,2024-09-19,Yes,Lost,No Feedback,LinkedIn
+O0015,L0262,Yes,2024-10-14,Yes,Lost,Candidate Rejected,Email
+O0016,L0273,Yes,2024-10-20,No,In Progress,Awaiting Feedback,Email
+O0017,L0290,Yes,2024-10-23,Yes,Win,Candidate Selected,LinkedIn
+O0018,L0294,Yes,2024-09-22,No,In Progress,Awaiting Feedback,Email
+O0019,L0335,Yes,2024-10-16,Yes,Win,Candidate Selected,LinkedIn
+O0020,L0382,Yes,2024-10-31,No,Lost,Position On Hold,LinkedIn
+O0021,L0467,Yes,2024-10-28,Yes,In Progress,Awaiting Feedback,Email
+O0022,L0470,Yes,2024-09-06,Yes,Lost,No Feedback,Email
+O0023,L0471,Yes,2024-10-21,Yes,In Progress,Awaiting Feedback,LinkedIn
+O0024,L0495,Yes,2024-11-02,Yes,Lost,Position On Hold,Email
+O0025,L0532,Yes,2024-11-04,Yes,Lost,Candidate Rejected,Email
+O0026,L0540,Yes,2024-10-28,Yes,Win,Candidate Selected,Email
+O0027,L0568,Yes,2024-09-09,No,Lost,Candidate Rejected,LinkedIn
+O0028,L0572,Yes,2024-10-13,No,Lost,No Feedback,Email
+O0029,L0600,Yes,2024-09-21,Yes,In Progress,Awaiting Feedback,Email
+O0030,L0637,Yes,2024-09-10,No,Win,Candidate Selected,Email
+O0031,L0644,Yes,2024-10-30,Yes,In Progress,Awaiting Feedback,Email
+O0032,L0674,Yes,2024-10-09,Yes,Lost,Position On Hold,LinkedIn
+O0033,L0680,Yes,2024-10-17,No,Lost,Candidate Rejected,Email
+O0034,L0694,Yes,2024-10-27,Yes,In Progress,Awaiting Feedback,Email
+O0035,L0702,Yes,2024-10-21,No,In Progress,Awaiting Feedback,LinkedIn
+O0036,L0729,Yes,2024-10-27,Yes,In Progress,Awaiting Feedback,Cold Call
+O0037,L0736,Yes,2024-09-28,Yes,In Progress,Awaiting Feedback,Email
+O0038,L0767,Yes,2024-09-29,Yes,Lost,Budget Issue,LinkedIn
+O0039,L0776,Yes,2024-10-22,Yes,Lost,Position On Hold,Email
+O0040,L0813,Yes,2024-10-31,No,Lost,Budget Issue,LinkedIn
+O0041,L0816,Yes,2024-10-23,Yes,In Progress,Awaiting Feedback,Email
+O0042,L0821,Yes,2024-10-03,No,Win,Candidate Selected,Email
+O0043,L0833,Yes,2024-09-22,No,In Progress,Awaiting Feedback,Cold Call
+O0044,L0835,Yes,2024-09-18,No,Lost,No Feedback,Cold Call
+O0045,L0838,Yes,2024-09-11,No,Lost,No Feedback,Email
+O0046,L0839,Yes,2024-09-14,No,In Progress,Awaiting Feedback,Cold Call
+O0047,L0847,Yes,2024-10-22,Yes,Lost,Budget Issue,Email
+O0048,L0848,Yes,2024-10-02,Yes,Lost,Candidate Rejected,Cold Call

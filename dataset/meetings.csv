@@ -1,0 +1,63 @@
+meeting_id,lead_id,meeting_date,channel_origin,meeting_outcome
+M0001,L0006,2024-10-29,Email,Completed
+M0002,L0024,2024-09-18,Cold Call,No-show
+M0003,L0031,2024-10-29,Email,Completed
+M0004,L0055,2024-10-19,Email,Completed
+M0005,L0064,2024-09-14,LinkedIn,Completed
+M0006,L0096,2024-10-15,Email,Completed
+M0007,L0097,2024-10-27,Email,Completed
+M0008,L0106,2024-10-05,Cold Call,Completed
+M0009,L0141,2024-10-03,Email,No-show
+M0010,L0147,2024-10-14,Email,Completed
+M0011,L0154,2024-09-07,LinkedIn,Completed
+M0012,L0176,2024-11-04,Email,Completed
+M0013,L0218,2024-09-22,LinkedIn,No-show
+M0014,L0220,2024-10-06,Email,Completed
+M0015,L0232,2024-09-20,LinkedIn,Completed
+M0016,L0249,2024-10-28,Email,Completed
+M0017,L0250,2024-09-19,LinkedIn,Completed
+M0018,L0262,2024-10-14,Email,Completed
+M0019,L0273,2024-10-20,Email,Completed
+M0020,L0290,2024-10-23,LinkedIn,Completed
+M0021,L0294,2024-09-22,Email,Completed
+M0022,L0307,2024-10-18,Cold Call,No-show
+M0023,L0335,2024-10-16,LinkedIn,Completed
+M0024,L0382,2024-10-31,LinkedIn,Completed
+M0025,L0391,2024-10-29,Email,No-show
+M0026,L0408,2024-09-26,Email,No-show
+M0027,L0457,2024-10-18,Email,No-show
+M0028,L0467,2024-10-28,Email,Completed
+M0029,L0470,2024-09-06,Email,Completed
+M0030,L0471,2024-10-21,LinkedIn,Completed
+M0031,L0484,2024-09-22,Email,No-show
+M0032,L0495,2024-11-02,Email,Completed
+M0033,L0532,2024-11-04,Email,Completed
+M0034,L0540,2024-10-28,Email,Completed
+M0035,L0568,2024-09-09,LinkedIn,Completed
+M0036,L0572,2024-10-13,Email,Completed
+M0037,L0600,2024-09-21,Email,Completed
+M0038,L0630,2024-10-16,LinkedIn,No-show
+M0039,L0637,2024-09-10,Email,Completed
+M0040,L0644,2024-10-30,Email,Completed
+M0041,L0674,2024-10-09,LinkedIn,Completed
+M0042,L0680,2024-10-17,Email,Completed
+M0043,L0682,2024-09-25,LinkedIn,No-show
+M0044,L0694,2024-10-27,Email,Completed
+M0045,L0702,2024-10-21,LinkedIn,Completed
+M0046,L0704,2024-09-28,Email,No-show
+M0047,L0717,2024-09-11,Email,No-show
+M0048,L0729,2024-10-27,Cold Call,Completed
+M0049,L0736,2024-09-28,Email,Completed
+M0050,L0755,2024-09-16,Email,No-show
+M0051,L0767,2024-09-29,LinkedIn,Completed
+M0052,L0776,2024-10-22,Email,Completed
+M0053,L0813,2024-10-31,LinkedIn,Completed
+M0054,L0816,2024-10-23,Email,Completed
+M0055,L0818,2024-09-20,LinkedIn,No-show
+M0056,L0821,2024-10-03,Email,Completed
+M0057,L0833,2024-09-22,Cold Call,Completed
+M0058,L0835,2024-09-18,Cold Call,Completed
+M0059,L0838,2024-09-11,Email,Completed
+M0060,L0839,2024-09-14,Cold Call,Completed
+M0061,L0847,2024-10-22,Email,Completed
+M0062,L0848,2024-10-02,Cold Call,Completed
